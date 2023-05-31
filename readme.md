@@ -1,3 +1,12 @@
+# Summary
+A randomely generatzed maze inside consolet terminal with collision detection and movement
+
+
+
+
+
+# Instructions
+
 To compile: g++ -o terminalWorld.exe terminalWorld.cpp
 
 To run on Windows: terminalWorld.exe
